@@ -1,0 +1,1 @@
+All plots are shown (with the code) in the Jupyter Notebook "Assignment_2" (in .pdf and .ipynb format).
